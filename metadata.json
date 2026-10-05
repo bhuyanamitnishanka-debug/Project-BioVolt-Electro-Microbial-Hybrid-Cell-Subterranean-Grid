@@ -1,0 +1,7 @@
+{
+  "name": "Project BioVolt: Electro-Microbial Hybrid Cell & Subterranean Grid",
+  "description": "Open-source bio-electrochemical energy engineering framework, electrochemical matrix simulator, subterranean co-generation caisson architectural blueprints, and multimodal graphic novel sequence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
